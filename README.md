@@ -6,3 +6,25 @@
 ```
 npm i -D prettier
 ```
+
+# eslint
+```
+npm i -D eslint eslint-config-prettier
+```
+
+# vscode user settings json
+```
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "afterDelay",
+    "workbench.startupEditor": "none",
+    "remote.autoForwardPortsSource": "hybrid",
+    "dart.flutterSdkPath": "C:\\dev\\flutter",
+    "editor.formatOnSave": true,
+    "prettier.requireConfig": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+}
+```
