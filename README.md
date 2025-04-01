@@ -2,17 +2,17 @@
 
 [curso testes jest alura](https://cursos.alura.com.br/course/react-js-testes-automatizados-front-end) for more information.
 
-# Prettier
+## Prettier
 ```
 npm i -D prettier
 ```
 
-# eslint
+## eslint
 ```
 npm i -D eslint eslint-config-prettier
 ```
 
-# vscode user settings json
+## vscode user settings json
 ```
 {
     "workbench.colorTheme": "Default Dark Modern",
@@ -27,4 +27,9 @@ npm i -D eslint eslint-config-prettier
         "source.fixAll.eslint": true
     }
 }
+```
+
+## Plugins react
+```
+npm install -D eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks
 ```
