@@ -33,3 +33,8 @@ npm i -D eslint eslint-config-prettier
 ```
 npm install -D eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks
 ```
+
+## Run tests
+```
+npm run test
+```
